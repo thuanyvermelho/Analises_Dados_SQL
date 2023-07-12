@@ -41,8 +41,7 @@ Com base na análise de dados realizada, conclui-se que:
 
 5 - Os dias da semana com maior número de visitas ao site são de segunda a sexta-feira, sugerindo a importância de concentrar esforços de marketing digital nesses dias para maximizar o potencial de conversão.
 
-![image](https://github.com/thuanyvermelho/Analise_Vendas_SQL/assets/104110519/11f119b8-6af2-4ea7-ad97-f2f72cc9602c)
-
+ ![Imagem do Dashboard Análise de Vendas](https://github.com/thuanyvermelho/Analises_Dados_SQL/assets/104110519/9fb74e24-1663-4f81-a019-66e35f67e1d1)
 
 ## Contribuindo para o projeto
 Contribuições para o projeto são bem-vindas! Caso tenha alguma sugestão, correção ou melhoria a fazer, por favor, abra uma issue ou um pull request.
