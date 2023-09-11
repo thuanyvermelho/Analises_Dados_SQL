@@ -6,6 +6,6 @@ Este repositório contém projetos de análises de dados desenvolvidos com a lin
 
 Aqui estão os links disponíveis para os projetos:
 
-- [**Análise de Vendas de uma rede de lojas de veiculos**](https://github.com/thuanyvermelho/Analises_Dados_SQL/tree/1---An%C3%A1lise-de-Vendas-de-uma-rede-de-lojas-de-veiculos) :Revelando insights na análise de vendas de veículos online.
+- Análise de Vendas de uma rede de lojas de veiculos: [**Link**](https://github.com/thuanyvermelho/Analises_Dados_SQL/tree/1---An%C3%A1lise-de-Vendas-de-uma-rede-de-lojas-de-veiculos)
 
 
